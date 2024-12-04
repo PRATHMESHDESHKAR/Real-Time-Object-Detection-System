@@ -15,40 +15,5 @@ Installation
     pip install pandas
     pip install argparse
     pip install pymongo
-Screenshots
-Graphic User Interface
-App Screenshot
-
-App Screenshot
-
-App Screenshot
-
-Database Server
-App Screenshot
-
-Store all current Detection Data on database server
-
-App Screenshot
-
-Auto Capture System and Motion Detection
-Every movement of object will be get capture by system it works only for single object. Store capture image in image folder.
-
-App Screenshot
-
-To Run the project
-python try5.py
-
-Limitation
-Arguably the largest limitation and drawback of the YOLO object detector is that:
-It does not always handle small objects well It especially does not handle objects grouped close together The reason for this limitation is due to the YOLO algorithm itself: The YOLO object detector divides an input image into an SxS grid where each cell in the grid predicts only a single object. If there exist multiple, small objects in a single cell then YOLO will be unable to detect them, ultimately leading to missed object detections. Therefore, if you know your dataset consists of many small objects grouped close together then you should not use the YOLO object detector.
-
-In terms of small objects, Faster R-CNN tends to work the best; however, it’s also the slowest.
-
-SSDs can also be used here; however, SSDs can also struggle with smaller objects (but not as much as YOLO).
-
-SSDs often give a nice tradeoff in terms of speed and accuracy as well.
-
-Screenshots
-App Screenshot
 
 Just follow☝️ me and Star⭐ my repository
