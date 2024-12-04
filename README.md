@@ -30,7 +30,8 @@ SSDs can also be used here; however, SSDs can also struggle with smaller objects
 SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 
 # ScreenShot
-    ![image](https://github.com/user-attachments/assets/e776d81e-8958-46e3-af93-aca2b441527c)
+    
+![Object SS](https://github.com/user-attachments/assets/6d4d11e8-c5ef-4755-bdc9-13066be8d52d)
 
 
 Just follow☝️ me and Star⭐ my repository
