@@ -5,7 +5,7 @@ I’ll be using YOLOv3 in this project, in particular, YOLO trained on the COCO 
 
 The YOLOv3 object detector pre-trained (on the COCO dataset) model files. These were trained by the Darknet team.
 
-Installation
+# Installation
     pip install opencv-python
     pip install numpy
     pip install PySimpleGUI
